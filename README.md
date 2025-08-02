@@ -22,15 +22,6 @@ Soy un desarrollador multidisciplinario con interés en la automatización de pr
 
 ---
 
-## 🏆 Proyectos y experiencia
-- 1er lugar en el concurso interpreparatoriano de computación física con un puente móvil controlado desde Raspberry Pi.
-- Desarrollo del videojuego "Espadas y Láser" en lenguaje C con Allegro 4.
-- Instructor y mentor en el curso “Desarrollo de proyectos web con JavaScript” (76 horas).
-- Participación en el programa Jóvenes a la Investigación con el desarrollo de una interfaz humano-máquina para un puente de elevación vertical.
-- Presentación del mismo proyecto en la Muestra Interdisciplinaria de las Ciencias, Artes y Humanidades (MICAH 2025).
-
----
-
 ## 📚 Lo que estoy aprendiendo
 - Fundamentos de ciberseguridad
 - Desarrollo backend con python
