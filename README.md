@@ -14,7 +14,7 @@ Soy un desarrollador multidisciplinario con interés en la automatización de pr
 ---
 
 ## 🛠️ Tecnologías que manejo
-- **Lenguajes:** Python, Java, C, C++, JavaScript, PHP, Bash, CMD
+- **Lenguajes:** Python, Java, C, C++, JavaScript, PHP, Bash, CMD, Visual Básic
 - **Web:** HTML, CSS, JavaScript, PHP
 - **Automatización:** Arduino, Raspberry Pi, Bash, CMD
 - **Redes:** Administración, mantenimiento y configuración de redes
