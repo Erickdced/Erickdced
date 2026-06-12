@@ -33,7 +33,7 @@ Soy un desarrollador multidisciplinario con interés en la automatización de pr
 ## Contacto
 Si quieres platicar, colaborar o compartir ideas, puedes escribirme.
 
-📧 **Correo:** [erickdcedillo21@gmail.com]  
+📧 **Correo empresarial:** [contacto@ometeotl.tech]  
 💻 **GitHub:** [Erickdced]
 
 ---
